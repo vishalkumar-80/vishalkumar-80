@@ -83,18 +83,10 @@ Git | GitHub | VS Code | Docker | AWS
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishalkumar-80&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=vishalkumar-80&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkumar-80&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/vishal-kumar-5a3611284?trk=contact-info
-- 🌐 Portfolio: vishal-portfolio-silk-rho.vercel.app
+- 🌐 Portfolio: https://vishal-portfolio-silk-rho.vercel.app/
 - 🐙 GitHub: https://github.com/vishalkumar-80
