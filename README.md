@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-🚀 AI & MERN Stack Developer | Full Stack Engineer | Problem Solver
+## 🚀 AI & MERN Stack Developer | Full Stack Engineer | Problem Solver
 
-👨‍💻 About Me
+##👨‍💻 About Me
 🎓 B.Tech CSE Student at Haridwar University (2023–2027)
 🚀 AI & MERN Stack Developer building scalable full-stack applications
 🤖 Passionate about RAG, LangChain, LangGraph, Agentic AI, and AI-powered products
