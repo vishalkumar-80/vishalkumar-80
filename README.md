@@ -95,6 +95,6 @@ Git | GitHub | VS Code | Docker | AWS
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: Add your LinkedIn URL
-- 🌐 Portfolio: Add your Portfolio URL
-- 🐙 GitHub: github.com/vishalkumar-80
+- 💼 LinkedIn: https://www.linkedin.com/in/vishal-kumar-5a3611284?trk=contact-info
+- 🌐 Portfolio: vishal-portfolio-silk-rho.vercel.app
+- 🐙 GitHub: https://github.com/vishalkumar-80
